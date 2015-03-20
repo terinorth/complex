@@ -1,0 +1,1 @@
+void printerr(char *s);
